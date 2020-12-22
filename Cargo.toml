@@ -23,7 +23,7 @@ features = ["nightly", "batch"]
 
 [dependencies]
 curve25519-dalek = {
-  git = "https://github.com/dalek-cryptography/curve25519-dalek.git"
+  git = "https://github.com/dalek-cryptography/curve25519-dalek"
   branch = "develop"
   default-features = false
 }
